@@ -1,0 +1,1 @@
+# Resume analyzer matches the resume with job requirements and gives compatibility score
